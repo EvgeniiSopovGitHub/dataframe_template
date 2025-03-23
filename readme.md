@@ -20,7 +20,7 @@ DataFrame df(2, 3);
  
 ```cpp
 vector<string> column_names = {"Column 1", "Column 2", "Column 3"};
-    df.set_column_names(column_names);
+df.set_column_names(column_names);
 ```
 
 <br>
